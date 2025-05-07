@@ -100,7 +100,7 @@ To explore any dashboard:
 <a name="contact"></a>
 ## Contact
 
-If you have suggestions, ideas, or have found any issues in the dashboards, feel free to [open an issue](https://github.com/LeonardoJFigueiredo/portfolio/issues) or reach out through the contacts below:
+If you have suggestions, ideas, or have found any issues in the dashboards, feel free to [open an issue](https://github.com/LeonardoJFigueiredo/powerbi-dashboards/issues) or reach out through the contacts below:
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/leonardo-jas-figueiredo)
 - [![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=flat)](mailto:leonardojasfigueiredo@gmail.com)
