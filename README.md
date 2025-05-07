@@ -10,6 +10,7 @@ Welcome to my Power BI portfolio! This repository showcases data visualization p
 - 📦 Dashboards Overview
   - [📈 Business Sales Dashboard](#business-sales)
   - [💰 Personal Finance Dashboard](#personal-finance)
+  - [🏦 Multi-Bank Transactions Dashboard](#multi-bank-transactions)
 - [📥 How to Use](#how-to-use)
 - [📫 Contact](#contact)
 
@@ -29,7 +30,7 @@ The **Business Sales** dashboard is a basic yet insightful sales analysis tool d
 - Product category
 - Brand
 - Country and continent
-- 
+
 **📊 Dataset Size:** 203,883 rows 
 #### 🧠 Insights and Features:
 - **Key Metrics Cards**: Total revenue, profit, and units sold are displayed at the top for quick performance assessment.
@@ -47,7 +48,40 @@ The **Business Sales** dashboard is a basic yet insightful sales analysis tool d
 ---
 
 <a name="personal-finance"></a>
-### Personal Finance Dashboard
+### 💰 Personal Finance Dashboard
+
+The **Personal Finance** dashboard is a custom financial planning tool designed to track and analyze monthly income, expenses, and savings. It was inspired by the [Data With Decision YouTube channel](https://www.youtube.com/@datalab365), but the layout, visuals, and business logic were independently expanded and customized to enhance storytelling and decision-making. The dataset includes the following columns:
+
+- Month  
+- Main Type (Income or Expense)  
+- Category  
+- Sub-category  
+- Amount  
+- Bill Due Date  
+- Status  
+
+**📊 Dataset Size:** 300 rows
+
+#### 🧠 Insights and Features:
+- **Key Performance Cards**: Total income, expenses, target income, and available balance for the selected period
+- **Top Income Sources**: Pie chart showing income distribution across categories such as Salary, E-commerce, Google AdSense, and others
+- **Income vs. Expense**: Line and column combo chart tracking cash flow trends over the year
+- **Budget Tracking**: Gauge comparing actual income vs. target income
+- **Category Breakdown**: Expense trends over time by category (Housing, Personal, Transportation)
+- **Dynamic Month Filter**: Interactive slicer to filter all visuals by selected month
+
+#### 🎥 Dashboard Preview:
+
+![Personal Finance Dashboard](./personal-finance/personal_finance.gif)
+
+**📁 [Access Personal Finance Folder](./personal-finance/)**
+
+---
+
+<a name="multi-bank-transactions"></a>
+### 🏦 Multi-Bank Transactions Dashboard
+
+The **Multi-Bank Transactions** dashboard will focus on consolidating and analyzing financial transactions across multiple bank accounts. 
 
 Coming soon...
 
@@ -65,6 +99,8 @@ To explore any dashboard:
 ---
 <a name="contact"></a>
 ## Contact
+
+If you have suggestions, ideas, or have found any issues in the dashboards, feel free to [open an issue](https://github.com/LeonardoJFigueiredo/portfolio/issues) or reach out through the contacts below:
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/leonardo-jas-figueiredo)
 - [![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=flat)](mailto:leonardojasfigueiredo@gmail.com)
